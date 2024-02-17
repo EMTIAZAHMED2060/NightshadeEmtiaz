@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "**/frontmatter.json": "jsonc",
+        "**/.frontmatter/config/*.json": "jsonc",
+        "unordered_map": "cpp",
+        "ostream": "cpp"
+    }
+}
