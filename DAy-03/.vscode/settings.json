@@ -1,7 +1,0 @@
-{
-    "files.associations": {
-        "**/frontmatter.json": "jsonc",
-        "**/.frontmatter/config/*.json": "jsonc",
-        "iostream": "cpp"
-    }
-}
